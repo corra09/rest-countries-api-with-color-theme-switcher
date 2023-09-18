@@ -1,58 +1,37 @@
-# Frontend Mentor - Rock, Paper, Scissors solution
+# Frontend Mentor - REST Countries API with color theme switcher solution
 
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH).
+This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Preview](#preview)
-  - [Rules](#rules)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+Los usuarios deberían poder:
 
-- View the optimal layout for the game depending on their device's screen size
-- Play Rock, Paper, Scissors against the computer
-- Maintain the state of the score after refreshing the browser
+- Ver todos los países desde la API en la página de inicio
+- Busque un país usando un campo de "entrada"
+- Filtrar países por región
+- Alternar la combinación de colores entre el modo claro y oscuro _(opcional)_
 
-### Preview
+### Screenshot
 
-![PreviewImage](/src/assets/Screenshot-2023-09-18.png)
-
-### Rules
-
-If the player wins, they gain 1 point. If the computer wins, the player loses one point.
-
-- Paper beats Rock
-- Rock beats Scissors
-- Scissors beats Paper
+![](/screenshot.png)
 
 ### Links
 
-- Solution: [Repository](https://github.com/gabrieloporto/rock-paper-scissors)
-- Live Site: [Webpage](https://rock-paper-scissors478.netlify.app/)
-
-## My process
+- Live Site URL: [LiveURL](https://rest-countries-thefabi8a.vercel.app/)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS
-- JavaScript
-- Responsive Design
-- Mobile-first workflow
-- Vite
-- React
-
-### Useful resources
-
-- [React Documentation](https://reactjs.org/)
+- [React](https://reactjs.org/) - JS library
+- [Tailwindcss]() - For some styles
+- [NextUI](https://nextui.org/) - For UI Components
 
